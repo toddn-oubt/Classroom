@@ -10,6 +10,8 @@ namespace Classroom
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to class.");
+            Console.ReadLine();
         }
     }
 }
