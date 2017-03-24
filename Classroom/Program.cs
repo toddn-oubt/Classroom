@@ -12,6 +12,7 @@ namespace Classroom
         {
 
             Console.WriteLine("Welcome to class.");
+            Console.WriteLine("Have fun");
             Console.ReadLine();
         }
     }
